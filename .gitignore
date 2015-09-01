@@ -1,0 +1,17 @@
+
+# Ignore auto-created subdirs 
+.ruamel/
+build/
+dist/
+*.egg-info
+.tox/
+.cache/
+
+# These lines are suggested according to the svn:ignore property
+# Feel free to enable them by uncommenting them
+*.pyc
+*.pyo
+*.orig
+*~
+
+
